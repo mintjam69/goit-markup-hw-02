@@ -62,10 +62,10 @@ ol {
 }
 
 .text-title {
-    font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        color: #2e2f42;
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        color: #fff;
         letter-spacing: 0.02em;
         text-align: center;
 }
