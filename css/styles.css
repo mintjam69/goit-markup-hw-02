@@ -40,6 +40,10 @@ ol {
     color: #404bbf;
 }
 
+.contacts {
+    font-style: normal;
+}
+
 .contacts-link {
     color: #434455;
 }
@@ -123,4 +127,6 @@ ol {
 
 .footer-text {
     color: #f4f4fd;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
